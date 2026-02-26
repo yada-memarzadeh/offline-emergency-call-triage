@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model cache
+.cache/
+.models/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# System files
+.DS_Store
+Thumbs.db

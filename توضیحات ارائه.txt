@@ -1,0 +1,16 @@
+Çíä ? Ìãáå Ñæ İÑÏÇ ÙåÑ Èå Êíã ÈÏå (ÈÑÇí Pitch):
+
+We built an offline emergency call triage system for disaster scenarios where internet is unavailable.
+
+It prioritizes a queue of calls (Challenge 12) using urgency scoring from speech + audio features.
+
+It also detects speaker status and generates context-aware instructions (Challenge 15).
+
+
+Every decision is explainable (keywords + scoring breakdown), which is crucial for emergency accountability
+
+
+
+
+ÏÓÊæÑ ÇÌÑÇcmd
+(.venv) D:\AIProjects\emergency_ai>streamlit run app.py
